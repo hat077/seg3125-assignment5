@@ -10,7 +10,7 @@ export const footballData = {
             metricAssists: "Assists Provided",
             player: "Player",
             club: "Club",
-            position: "Pos",
+            position: "Position",
             rating: "Rating",
             matches: "Matches",
             goalsVsAssists: "Goals vs. Assists Distribution",
